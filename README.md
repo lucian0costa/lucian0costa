@@ -8,3 +8,4 @@
 * Learning about Spring Boot, Maven, H2 Database, Postman → [Link](https://github.com/lucian0costa/workshop-springboot4-jpa)
 * Chess System Java → [Link](https://github.com/lucian0costa/chess-system-java)
 * Learning about MongoDB → [Link](https://github.com/lucian0costa/workshop-springboot4-jpa)
+* Learning about JavaFX → [Link](https://github.com/lucian0costa/workshop-javafx-jdbc)
